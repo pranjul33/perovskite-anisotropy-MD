@@ -3,14 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21438115.svg)](https://doi.org/10.5281/zenodo.21438115)
 
 Input files, force-field parameters, LAMMPS scripts, analysis notebooks, and
-processed data supporting the manuscript:
-
-> **P. Bhatt and A. Tewari**, *Role of A-Site Cation Dynamics in Anisotropic
-> Deformation of Orthorhombic MAPbI₃: A Molecular Dynamics Study*, submitted to
-> *Computational Materials Science* (2026). Manuscript no. COMMAT-D-26-02907.
-
-Corresponding author: Abhishek Tewari (abhishek@mt.iitr.ac.in), Department of
-Metallurgical & Materials Engineering, Indian Institute of Technology Roorkee.
+processed data.
 
 ---
 
@@ -105,7 +98,7 @@ repo/
 ## Data availability
 
 All inputs, scripts, and processed data are in this repository. The large raw
-trajectory dumps (`deform.dump`, per-atom `q6.*` dumps, SAED `.vtk`) are too large
+trajectory dumps (`deform.dump`) are too large
 for GitHub and are archived on **Zenodo**:
 
 > Zenodo: https://zenodo.org/records/21438115 — DOI: [10.5281/zenodo.21438115](https://doi.org/10.5281/zenodo.21438115)
