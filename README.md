@@ -98,7 +98,7 @@ repo/
 ## Data availability
 
 All inputs, scripts, and processed data are in this repository. The large raw
-trajectory dumps (`deform.dump`) are too large
+trajectory dump files are too large
 for GitHub and are archived on **Zenodo**:
 
 > Zenodo: https://zenodo.org/records/21438115 — DOI: [10.5281/zenodo.21438115](https://doi.org/10.5281/zenodo.21438115)
