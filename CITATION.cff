@@ -10,7 +10,7 @@ authors:
     affiliation: "Indian Institute of Technology Roorkee"
     email: abhishek@mt.iitr.ac.in
 type: software
-repository-code: "https://github.com/USERNAME/REPO-NAME"
+repository-code: "https://github.com/pranjul33/perovskite-anisotropy-MD/"
 license: MIT
 year: 2026
 doi: 10.5281/zenodo.21438115
