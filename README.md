@@ -23,7 +23,6 @@ Workflow: **initial structure → equilibration → uniaxial deformation → ana
 ## Repository layout
 
 ```
-repo/
 ├── README.md                     # this file
 ├── LICENSE                       # MIT license
 ├── CITATION.cff                  # how to cite this work
