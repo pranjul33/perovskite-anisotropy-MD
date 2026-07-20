@@ -12,7 +12,7 @@ kspace_modify diff ad
 
 #Reading data file(with bonded interactions) and potential file(non bonded)------------
 read_data    mp1194604(777).data
-include dlpoly2lammps.nonbonding
+include lammps.nonbonding
 
 #group lead type 1
 #group iodine type 2
