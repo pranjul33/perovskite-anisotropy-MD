@@ -32,7 +32,7 @@ repo/
 ├── initial_structure/            # starting structure + force field
 │   ├── H6PbCI3N.cif              # MAPbI3 orthorhombic unit cell (CIF)
 │   ├── mp1194604(777).data       # pristine 7x7x7 supercell (Materials Project mp-1194604)
-│   ├── dlpoly2lammps.nonbonding  # MYP non-bonded pair coefficients
+│   ├── lammps.nonbonding  # MYP non-bonded pair coefficients
 │   └── README.md
 │
 ├── equilibration/
