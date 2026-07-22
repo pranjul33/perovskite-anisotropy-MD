@@ -14,7 +14,7 @@ per frame. Columns: `Frame, Molecule, X, Y, Z` (11 frames each).
 | `MA_orientationvectors_xcomp.csv` | compression along [100] (a-axis) |
 | `MA_orientationvectors_zcomp.csv` | compression along [001] (c-axis) |
 
-Used for the orientational-probability / cation-dynamics analysis (Fig. 3–4).
+Used for the orientational-probability / cation-dynamics analysis.
 
 ## Radial distribution functions
 Time-averaged RDFs written by the LAMMPS `compute rdf` / `fix ave/time` command.
@@ -31,7 +31,7 @@ Parsed by `../analysis/scripts/extract_rdf.ipynb`.
 
 ## Steinhardt bond-order parameters (Pb sublattice)
 Per-atom Steinhardt bond-orientational order parameters for the Pb sublattice,
-in LAMMPS dump format (one block per strain frame, 31 frames each). Columns:
+in LAMMPS dump format (one block per strain frame). Columns:
 
 ```
 id  type  xs  ys  zs  c_boolead[1]  c_boolead[2]  c_boolead[3]  c_boolead[4]  c_boolead[5]
